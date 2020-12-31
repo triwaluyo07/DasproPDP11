@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1513493656 source:d:\pdp11\studikasusarray2d\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1513493952 source:g:\daspro\pdp11\studikasusarray2d\main.c
+	<stdio.h>
+	<stdlib.h>
+
